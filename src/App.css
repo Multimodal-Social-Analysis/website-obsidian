@@ -18,9 +18,9 @@
   flex: 1;
 }
 
-
-
-
+#divider {
+  margin-top: 2%;
+}
 
 .App-logo {
   height: 40vmin;
